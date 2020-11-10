@@ -1,0 +1,20 @@
+body{
+	background-image: url(background-image.jpg);
+}
+h1, p{
+	color:black;
+	text-align:center;
+	border:5px solid #AA3939;
+	cursor:pointer;
+}
+
+li{
+	list-style:none;
+	display:inline-block;
+}
+.webtext{
+	border: 5px dashed green;
+}
+.active{
+	color: red;
+}
